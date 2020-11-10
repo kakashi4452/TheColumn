@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; The Column</title>
+	<atom:link href="https://kakashi4452.github.io/TheColumn/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kakashi4452.github.io/TheColumn</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 10 Nov 2020 11:03:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+	<item>
+		<title>U.S. presidential elections &#124; Trump vs Biden: 10 states to watch out for</title>
+		<link>https://kakashi4452.github.io/TheColumn/2020/11/10/u-s-presidential-elections-trump-vs-biden-10-states-to-watch-out-for/</link>
+					<comments>https://kakashi4452.github.io/TheColumn/2020/11/10/u-s-presidential-elections-trump-vs-biden-10-states-to-watch-out-for/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 10 Nov 2020 11:03:13 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://kakashi4452.github.io/TheColumn/?p=28</guid>
+
+					<description><![CDATA[President Donald Trump and Democratic challenger Joe Biden each has a path [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image"><img src="https://www.plannedparenthoodaction.org/uploads/filer_public/2c/f0/2cf095cd-e826-475f-838e-3321bccc45a8/biden-v-trump-feature-v4.gif" alt=""/></figure>
+
+
+
+<p>President <a href="https://www.thehindu.com/news/international/us-presidential-election-trump-and-biden-seek-battleground-state-votes-on-last-full-day-of-campaign/article33004182.ece">Donald Trump and Democratic challenger Joe Biden</a> each has a path to win the White House. The former vice president is competitive in all the battleground states Trump carried in 2016, and has put a handful of traditional Republican states, including Georgia and Arizona, in play. Trump can win by defending a wide swath of territory he won in 2016, but his hopes for reelection are heavily dependent on the swing states of Florida and Pennsylvania.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kakashi4452.github.io/TheColumn/2020/11/10/u-s-presidential-elections-trump-vs-biden-10-states-to-watch-out-for/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://kakashi4452.github.io/TheColumn/2020/11/10/hello-world/</link>
+					<comments>https://kakashi4452.github.io/TheColumn/2020/11/10/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 10 Nov 2020 10:10:26 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://kakashi4452.github.io/TheColumn/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kakashi4452.github.io/TheColumn/2020/11/10/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
